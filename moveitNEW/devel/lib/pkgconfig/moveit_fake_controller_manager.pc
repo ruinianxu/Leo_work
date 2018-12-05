@@ -1,0 +1,8 @@
+prefix=/home/leo/Dropbox/Thesis/Projects/moveitNEW/devel
+
+Name: moveit_fake_controller_manager
+Description: Description of moveit_fake_controller_manager
+Version: 0.5.5
+Cflags: 
+Libs: -L/home/leo/Dropbox/Thesis/Projects/moveitNEW/devel/lib 
+Requires: moveit_core

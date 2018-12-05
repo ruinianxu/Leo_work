@@ -1,0 +1,8 @@
+prefix=/home/leo/Dropbox/Thesis/Projects/moveitNEW/devel
+
+Name: moveit_msgs
+Description: Description of moveit_msgs
+Version: 0.5.2
+Cflags: -I/home/leo/Dropbox/Thesis/Projects/moveitNEW/devel/include
+Libs: -L/home/leo/Dropbox/Thesis/Projects/moveitNEW/devel/lib 
+Requires: std_msgs actionlib_msgs sensor_msgs geometry_msgs trajectory_msgs shape_msgs object_recognition_msgs octomap_msgs

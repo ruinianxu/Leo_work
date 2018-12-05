@@ -1,0 +1,8 @@
+prefix=/home/leo/Dropbox/Thesis/Projects/moveitNEW/devel
+
+Name: geometric_shapes
+Description: Description of geometric_shapes
+Version: 0.3.5
+Cflags: -I/home/leo/Dropbox/Thesis/Projects/moveitNEW/src/geometric_shapes/include -I/opt/ros/hydro/include -I/usr/include/eigen3 -I/opt/ros/hydro/include
+Libs: -L/home/leo/Dropbox/Thesis/Projects/moveitNEW/devel/lib -lgeometric_shapes -l:/opt/ros/hydro/lib/liboctomap.so -l:/opt/ros/hydro/lib/liboctomath.so -l:/opt/ros/hydro/lib/libconsole_bridge.so
+Requires: shape_tools shape_msgs random_numbers eigen_stl_containers

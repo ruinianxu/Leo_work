@@ -1,0 +1,8 @@
+prefix=/home/leo/Dropbox/Thesis/Projects/moveitNEW/devel
+
+Name: moveit_setup_assistant
+Description: Description of moveit_setup_assistant
+Version: 0.5.4
+Cflags: -I/home/leo/Dropbox/Thesis/Projects/moveitNEW/src/moveit_setup_assistant/include
+Libs: -L/home/leo/Dropbox/Thesis/Projects/moveitNEW/devel/lib -lmoveit_setup_assistant_tools
+Requires: moveit_ros_planning moveit_ros_visualization

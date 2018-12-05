@@ -1,0 +1,8 @@
+prefix=/home/leo/Dropbox/Thesis/Projects/moveitNEW/devel
+
+Name: moveit_planners_ompl
+Description: Description of moveit_planners_ompl
+Version: 0.5.3
+Cflags: -I/home/leo/Dropbox/Thesis/Projects/moveitNEW/devel/include -I/home/leo/Dropbox/Thesis/Projects/moveitNEW/src/moveit_planners/ompl/ompl_interface/include -I/opt/ros/hydro/include
+Libs: -L/home/leo/Dropbox/Thesis/Projects/moveitNEW/devel/lib -lmoveit_ompl_interface -l:/opt/ros/hydro/lib/libompl.so
+Requires: moveit_core

@@ -1,0 +1,8 @@
+prefix=/home/leo/Dropbox/Thesis/Projects/moveitNEW/build/devel
+
+Name: pr2_moveit_tests
+Description: Description of pr2_moveit_tests
+Version: 0.5.3
+Cflags: 
+Libs: -L/home/leo/Dropbox/Thesis/Projects/moveitNEW/build/devel/lib 
+Requires: 

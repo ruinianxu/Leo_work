@@ -1,0 +1,8 @@
+prefix=/home/leo/Dropbox/Thesis/Projects/moveitNEW/devel
+
+Name: moveit_controller_manager_example
+Description: Description of moveit_controller_manager_example
+Version: 0.5.5
+Cflags: 
+Libs: -L/home/leo/Dropbox/Thesis/Projects/moveitNEW/devel/lib 
+Requires: moveit_core

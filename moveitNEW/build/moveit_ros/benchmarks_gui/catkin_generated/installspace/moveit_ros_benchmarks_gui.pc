@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: moveit_ros_benchmarks_gui
+Description: Description of moveit_ros_benchmarks_gui
+Version: 0.5.8
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/leo/Dropbox/Thesis/Projects/moveitNEW/devel
+
+Name: pr2_moveit_config
+Description: Description of pr2_moveit_config
+Version: 0.5.3
+Cflags: 
+Libs: -L/home/leo/Dropbox/Thesis/Projects/moveitNEW/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/leo/Dropbox/Thesis/Projects/moveitNEW/devel
+
+Name: moveit_ros_benchmarks_gui
+Description: Description of moveit_ros_benchmarks_gui
+Version: 0.5.8
+Cflags: 
+Libs: -L/home/leo/Dropbox/Thesis/Projects/moveitNEW/devel/lib 
+Requires: 

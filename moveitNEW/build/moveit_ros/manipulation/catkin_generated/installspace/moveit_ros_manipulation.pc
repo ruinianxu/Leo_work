@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: moveit_ros_manipulation
+Description: Description of moveit_ros_manipulation
+Version: 0.5.8
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib -lmoveit_pick_place_planner
+Requires: moveit_core moveit_ros_planning

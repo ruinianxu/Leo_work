@@ -1,0 +1,8 @@
+set(_CATKIN_CURRENT_PACKAGE "geometric_shapes")
+set(geometric_shapes_VERSION "0.3.5")
+set(geometric_shapes_MAINTAINER "Ioan Sucan <isucan@willowgarage.com>")
+set(geometric_shapes_BUILD_DEPENDS "boost" "shape_msgs" "shape_tools" "octomap" "assimp" "eigen" "libqhull" "console_bridge" "random_numbers" "eigen_stl_containers" "resource_retriever")
+set(geometric_shapes_RUN_DEPENDS "boost" "shape_msgs" "shape_tools" "octomap" "assimp" "eigen" "libqhull" "console_bridge" "random_numbers" "eigen_stl_containers" "resource_retriever")
+set(geometric_shapes_DEPRECATED "")
+set(geometric_shapes_BUILDTOOL_DEPENDS "catkin")
+set(geometric_shapes_BUILDTOOL_DEPENDS_catkin_VERSION_GTE "0.5.68")

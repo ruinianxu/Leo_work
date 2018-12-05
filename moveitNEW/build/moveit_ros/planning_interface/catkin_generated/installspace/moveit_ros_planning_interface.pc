@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: moveit_ros_planning_interface
+Description: Description of moveit_ros_planning_interface
+Version: 0.5.8
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib -lmoveit_common_planning_interface_objects -lmoveit_planning_scene_interface -lmoveit_move_group_interface
+Requires: moveit_ros_planning moveit_ros_warehouse moveit_ros_manipulation moveit_ros_move_group
